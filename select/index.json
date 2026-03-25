@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "海馬成長痛",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-03-25T14:10:16.991214Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/01_海馬成長痛_ZUTOMAYO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_海馬成長痛_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海馬成長痛 - Hippocampal Pain",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_海馬成長痛_-_Hippocampal_Pain_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_海馬成長痛_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_海馬成長痛_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_海馬成長痛_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海馬成長痛 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_海馬成長痛_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海馬成長痛",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_海馬成長痛_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海馬成長痛 - Live",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_海馬成長痛_-_Live_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "海馬成長痛 (Hippocampal Pain)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_海馬成長痛_(Hippocampal_Pain)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海馬成長痛",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_海馬成長痛_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "海馬成長痛",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_海馬成長痛_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "海馬成長痛 - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_海馬成長痛_-_Live_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "海馬成長痛",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/localdb_01_海馬成長痛_ZUTOMAYO.txt",
+      "repo_name": "PLG2Uexyi9s"
+    }
+  ]
+}
